@@ -1,0 +1,35 @@
+.dr{
+	border:7px solid #ffffff;
+	padding:10px;
+	background-color:black;
+	color:white;
+	border-radius:15px;
+	transition:0.5s padding;
+}
+.dr:hover{
+	padding:15px;
+	
+}
+body{
+	
+	background-image:url(img/2A8sVC6lT2c.jpg)
+}
+.rd{
+	border:7px solid #ffffff;
+	padding:10px;
+	background-color:black;
+	color:white;
+	border-radius:15px;
+	opacity:1;
+	height:500px;
+	
+	transition:0.5s padding;
+}
+
+
+
+.rd:hover{
+	padding:15px;
+	opacity:1;
+	
+}

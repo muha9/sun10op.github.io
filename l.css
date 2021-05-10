@@ -1,0 +1,26 @@
+.kj{
+color:white;
+background-color:black;
+border:5px solid black;
+padding:10px;
+border-radius:15px;
+margin:10px;
+	transition:0.5s padding;
+	
+	
+}
+.kj:hover{
+	
+	padding:15px;
+}
+body {
+	background-image:url(https://kartinkinaden.ru/uploads/posts/2020-07/1593806495_3-p-fon-zelenaya-trava-4.jpg);
+}
+.xs{
+	
+	color:white;
+}
+.kj:pressing{
+	
+	
+}
